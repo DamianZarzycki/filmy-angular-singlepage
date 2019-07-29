@@ -1,0 +1,7 @@
+.film{
+    float: left;
+    margin: 10px;
+    padding: 5px;
+    cursor: pointer;
+    border: 2px solid gold;
+}
